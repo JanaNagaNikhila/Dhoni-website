@@ -1,0 +1,16 @@
+table,tr,th,td{
+border:1px solid grey;
+margin:0 auto;
+outline:1px solid skyblue;
+}
+img {
+margin-left:700px;
+}
+h1{
+text-align:center;
+}
+h3{
+border:1px solid rgba(251, 231, 239, 1);
+border-left:5px solid rgba(239, 207, 227, 1);
+padding:5px;
+}
